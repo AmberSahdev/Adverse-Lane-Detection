@@ -1,0 +1,1 @@
+"[{'label': 'car', 'confidence': 0.35424215, 'topleft': {'x': 804, 'y': 523}, 'bottomright': {'x': 875, 'y': 583}}, {'label': 'car', 'confidence': 0.49027807, 'topleft': {'x': 433, 'y': 529}, 'bottomright': {'x': 602, 'y': 651}}]"

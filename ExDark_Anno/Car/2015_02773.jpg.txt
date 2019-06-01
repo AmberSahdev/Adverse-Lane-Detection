@@ -1,0 +1,4 @@
+% bbGt version=3
+Car 694 361 385 240 0 0 0 0 0 0 0
+Motorbike 532 384 64 82 0 0 0 0 0 0 0
+Motorbike 599 387 25 46 0 0 0 0 0 0 0
